@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include <unistd.h>
 
 void ft_print_alphabet()
@@ -14,12 +13,4 @@ void ft_print_alphabet()
   countor++;
  }
 
-}
-
-int main()
-{
-
- ft_print_alphabet();
-
- return 0;
 }
